@@ -1,5 +1,5 @@
 import { AuthPage } from "../pages/auth/AuthPage";
-
+o
 function App() {
   return (
     <>
