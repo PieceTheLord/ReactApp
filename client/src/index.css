@@ -4,6 +4,7 @@
 }
 
 body {
+  background-color: rgb(28, 157, 242);
   height: 100vh;
   display: flex;
   align-items: center;
